@@ -9,22 +9,22 @@ A simple Stopwatch using JavaScript html and CSS. A simple beginner project for 
 
 **Here is how the stopwatch looks like:**
 
-#####UI:
+### UI:
 
 ![Stopwatch-UI](/images/Aspose.Words.e7243ddb-84c8-43d2-8215-599377c226d0.002.png)
 
 
-##CODE:
+## CODE:
 
-#####HTML:
+### HTML:
 
 ![index.html](/images/index.html.png)
 
-#####JavaScript:
+### JavaScript:
 
 ![index.html](/images/stopwatch.js.png)
 
-#####CSS:
+### CSS:
 
 ![index.html](/images/style.css.png)
 
